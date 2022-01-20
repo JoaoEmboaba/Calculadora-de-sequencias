@@ -31,7 +31,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/Pichau/OneDrive/Área de Trabalho/Programação/Calculadora-de-sequencias",
       "environment": [],
-      "program": "c:/Users/Pichau/OneDrive/Área de Trabalho/Programação/Calculadora-de-sequencias/build/Debug/outDebug",
+      "program": "c:/Users/Pichau/OneDrive/Área de Trabalho/Programação/Calculadora-de-sequencias/build/Release/outRelease",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
